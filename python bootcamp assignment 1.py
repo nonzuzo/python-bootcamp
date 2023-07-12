@@ -70,7 +70,7 @@ def is_triangle(sideA,sideB,sideC):
     else:
         return True
     
-# print(is_triangle(14,7,7))
+ 
 
 def sides():
      A =int(input(" please enter length 1: "))
